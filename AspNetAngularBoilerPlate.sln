@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetAngularBoilerPlate", "AspNetAngularBoilerPlate\AspNetAngularBoilerPlate.csproj", "{CA1D174C-0783-4775-8C43-8DF2F5882E71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA1D174C-0783-4775-8C43-8DF2F5882E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1D174C-0783-4775-8C43-8DF2F5882E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1D174C-0783-4775-8C43-8DF2F5882E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1D174C-0783-4775-8C43-8DF2F5882E71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD172227-3D40-46F9-8EB0-32251E779DD0}
+	EndGlobalSection
+EndGlobal
