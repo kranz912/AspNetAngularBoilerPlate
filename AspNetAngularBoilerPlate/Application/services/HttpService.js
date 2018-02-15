@@ -1,6 +1,6 @@
 ﻿(function () {
     angular.module('app')
-        .service('HttpService', HttpService)
+        .service('HttpService', HttpService);
 
     HttpService.$inject = ['$http','$q'];
     function HttpService($http,$q) { 
